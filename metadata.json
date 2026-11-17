@@ -1,0 +1,8 @@
+{
+  "name": "Personality Analyzer",
+  "description": "Interactive 20-question personality assessment powered by Greedy Method maximum selection, Merge Sort ranking, and CSV persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
